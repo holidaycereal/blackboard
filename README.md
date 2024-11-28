@@ -2,4 +2,4 @@
 
 chalky colors for neovim
 
-![blackboard-ss](https://github.com/user-attachments/assets/8f86538c-4e95-47b7-87a6-d4ef59279afd)
+![blackboard-ss](https://github.com/user-attachments/assets/7a954661-acb5-452e-aa7b-31204726f3bd)
