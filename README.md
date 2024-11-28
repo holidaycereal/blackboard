@@ -7,10 +7,10 @@ chalky colors for neovim
 designed to work best with `termguicolors` & `tree-sitter`.
 
 ## features
-- feels like writing on a real blackboard!!
-- i feel like the darker colors almost look wet
 - thoughtful, sensible color choices
 - very easy to configure
+- i feel like the darker colors almost look wet
+- feels like writing on a real blackboard!
 
 ## installation
 1. copy & paste or download blackboard.lua and save the file as `~/.config/nvim/colors/blackboard.lua`.
