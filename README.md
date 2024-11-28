@@ -8,6 +8,7 @@ designed to work best with `termguicolors` & `tree-sitter`.
 
 ## features
 - feels like writing on a real blackboard!!
+- i feel like the darker colors almost look wet
 - thoughtful, sensible color choices
 - very easy to configure
 
